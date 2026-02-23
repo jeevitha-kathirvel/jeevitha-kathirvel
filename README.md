@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Jeevitha
 
-<!--
-**jeevitha-kathirvel/jeevitha-kathirvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E – ECE Student (8.92 CGPA)  
+💻 Aspiring Java Full Stack Developer  
+🌱 Currently learning Java, DSA & Web Development  
+☁️ NPTEL Certified in Industry 4.0 (Elite) & Cloud Computing  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java (OOPS & Basic DSA)
+- HTML, CSS, JavaScript
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+LinkedIn: linkedin.com/in/jeevitha-kathirvel-3b69662a8
+GitHub: github.com/jeevitha-kathirvel
