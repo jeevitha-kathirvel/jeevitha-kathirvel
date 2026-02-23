@@ -3,7 +3,7 @@
 🎓 B.E – ECE Student (8.92 CGPA)  
 💻 Aspiring Java Full Stack Developer  
 🌱 Currently learning Java, DSA & Web Development  
-☁️ NPTEL Certified in Industry 4.0 (Elite) & Cloud Computing  
+☁️ NPTEL Certified in Introduction to Industry 4.0 and internet of things (Elite) & Cloud Computing  
 
 ## 🚀 Skills
 - Java (OOPS & Basic DSA)
